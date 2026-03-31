@@ -7,6 +7,7 @@ void konversiWaktu();
 
 int main(){
     int pilihan;
+    int hahahaha;
 
     while(){
         Printf("\n === KALKULATOR KONVERSI SATUAN ===");
